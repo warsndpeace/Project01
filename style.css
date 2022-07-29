@@ -1,0 +1,102 @@
+*{
+    font-family: Orbitron;
+}
+.container{
+    margin: 2rem 5rem;
+}
+
+.navbar-container>div{
+    display: inline-block;
+}
+.list{
+    margin: 0 10rem;
+}
+.list>li{
+    display: inline-block;
+}
+.button-group>div{
+    display: inline-block;
+}
+.list-item{
+    font-size: 1.2rem;
+    font-family: Orbitron;
+    font-weight: 500;
+    margin: 0 1.2rem 0 0;
+   
+}
+.nav-button{
+    border: none;
+    margin-top: -1rem;
+    background-color: white;
+    border: 2px solid black;
+    padding: 0.5rem 2rem;
+    border-radius: 10px;
+}
+.square>img{
+margin-top: 15rem;
+margin-left: 10rem;
+}
+.square{
+    margin-top: 10rem;
+}
+.myBox{
+   position: relative;
+    
+}
+.hero{
+    position: relative;
+    top: -26rem;
+    left: 3rem;
+    z-index: 0;
+}
+.globe{
+    position: relative;
+    /* top: -95rem; */
+    top: -53rem;
+    left: 31rem;
+}
+.star{
+    position: relative;
+    /* top: -95rem; */
+    top: -50rem;
+    left: 63rem;
+}
+
+.hero-heading{
+    position: relative;
+    font-size: 3.2rem;
+    top: -51rem;
+    left: 28rem;
+}
+.hero-description{
+    position: relative;
+    top: -50rem;
+    font-size: 0.7rem;
+    left: 30rem;
+}
+.buttons{
+    position: relative;
+    top: -47rem;
+    left: 40rem;
+}
+.iconsDiv{
+    position: relative;
+    top: -47rem;
+    left: 40rem;
+}
+.button-email{
+    border: none;
+    padding: 0.3rem 1rem;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.button-join{
+    border: none;
+    padding: 0.3rem 0.8rem;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: white;
+}
+
