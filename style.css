@@ -1,5 +1,6 @@
 *{
     font-family: Orbitron;
+    overflow:hidden;
 }
 .container{
     margin: 2rem 5rem;
